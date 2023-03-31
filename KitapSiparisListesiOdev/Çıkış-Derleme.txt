@@ -1,0 +1,4 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: KitapSiparisListesiOdev, Yapılandırma: Debug Any CPU ------
+1>  KitapSiparisListesiOdev -> D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\bin\Debug\KitapSiparisListesiOdev.exe
+========== Oluşturma: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========

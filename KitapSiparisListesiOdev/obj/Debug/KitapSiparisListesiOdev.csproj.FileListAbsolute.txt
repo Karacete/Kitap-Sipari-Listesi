@@ -1,0 +1,11 @@
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\bin\Debug\KitapSiparisListesiOdev.exe.config
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\bin\Debug\KitapSiparisListesiOdev.exe
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\bin\Debug\KitapSiparisListesiOdev.pdb
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.csproj.AssemblyReference.cache
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.csproj.SuggestedBindingRedirects.cache
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.Form1.resources
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.Properties.Resources.resources
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.csproj.GenerateResource.cache
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.csproj.CoreCompileInputs.cache
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.exe
+D:\source\KitapSiparisListesiOdev\KitapSiparisListesiOdev\obj\Debug\KitapSiparisListesiOdev.pdb
